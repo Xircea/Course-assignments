@@ -1,0 +1,22 @@
+.sidebar{
+    height: 100%;
+    width: 300px;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+html, body{
+    height: 100%;
+}
+p{
+    color: aliceblue;
+}
